@@ -15,7 +15,7 @@ function letöltésBefejeződött(d) {
     viccek = d;
 
     for (var i = 0; i <= viccek; i++) {
-            
+        
     }
 }
     
